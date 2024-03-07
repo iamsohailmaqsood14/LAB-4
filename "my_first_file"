@@ -1,0 +1,8 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+cout<<"the addition of two numbers"<<a+b;
+
+return 0;
+}
